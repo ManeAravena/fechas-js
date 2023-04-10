@@ -1,0 +1,21 @@
+body {
+    background-image: url(../img/marble.jpg);
+    background-size: cover;
+    background-repeat:inherit
+}
+
+.container {
+    margin-top: 22px;
+}
+h1 {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#tiemporestante {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.custom-danger-subtle {
+    background-color: var(--bs-danger-bg-subtle);
+}
